@@ -1,0 +1,29 @@
+body{
+    font-family:  Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: aliceblue;
+}
+.container{
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px black;
+    text-align: center;
+}
+.for-group{
+    margin-bottom: 15px;
+}
+label
+{
+    display: block;
+    margin-bottom: 5px;
+}
+input{
+    width: 100%;
+    padding: 8px;
+    box-sizing:  border-box;
+}
